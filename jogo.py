@@ -6,7 +6,7 @@ fonte = pygame.font.SysFont('calibri', 30)
 pygame.display.set_caption("jogo da velha")
 clock = pygame.time.Clock()
 tamanho = 20
-fundo = pygame.image.load("jogo da velha.png")
+fundo = pygame.image.load("jogo da velha (1).png")
 x_img = pygame.image.load('x.png')
 x_mov = [41,366]
 x_pto = 0
